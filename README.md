@@ -1,1 +1,2 @@
 # Text-Classification
+Text classification is a natural language processing (NLP) task that involves categorizing a given text or document into one or more predefined classes or categories. The goal of text classification is to automatically assign a label or category to a piece of text based on its content. This task has a wide range of applications across various industries, including spam detection, sentiment analysis, topic categorization, language detection, and more.
